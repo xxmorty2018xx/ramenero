@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  background-color: #999999;
+  font-family: helvetica;
+}
+
+body h1 {
+  margin-top: 0;
+}
+
+body h2 {
+  margin-top: 0;
+}
+
+.title-block {
+  background-color: #666666;
+  padding: 50px;
+}
+
+.title-block img {
+  max-width: 100%;
+}
+
+.calculator-block {
+  padding: 50px;
+}
+
+.calculator-block .input-block span {
+  margin-right: 7px;
+}
+
+.calculator-block .input-block input {
+  font-size: 20px;
+  background-color: #999999;
+  border: 1px solid white;
+  padding: 7px 15px;
+  color: white;
+}
+
+.calculator-block .price-block {
+  margin-top: 10px;
+}
+
+.address-block {
+  padding: 50px;
+  background-color: #666666;
+}
+
+.address-block .address {
+  padding: 7px 15px;
+  border: 1px solid white;
+  display: inline-block;
+  margin: 0 auto;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  width: 80%;
+}
